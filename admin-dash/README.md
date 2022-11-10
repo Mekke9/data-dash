@@ -1,0 +1,1 @@
+This is a project to practice for creating a new website for my church, Saint James Missionary Baptist Church in New Britain.
