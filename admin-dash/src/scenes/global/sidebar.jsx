@@ -79,8 +79,12 @@ const Sidebar = () => {
                 alignItems="center"
                 ml="15px"
               >
-                <Typography variant="h3" color={colors.grey[100]}>
-                  BASED
+                <Typography
+                  variant="icon"
+                  fontWeight="bold"
+                  color={colors.grey[100]}
+                >
+                  SJMBC NB
                 </Typography>
                 <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
                   <MenuOutlinedIcon />
